@@ -1,4 +1,4 @@
-package com.example.ygtetris
+package com.xiaoyan.tetriswar
 
 import android.annotation.SuppressLint
 import android.content.Intent

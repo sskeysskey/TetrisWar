@@ -1,4 +1,4 @@
-package com.example.ygtetris
+package com.xiaoyan.tetriswar
 
 val I_SHAPE = arrayOf(
     arrayOf(

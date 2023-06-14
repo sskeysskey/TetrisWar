@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.ygtetris'
+    namespace 'com.xiaoyan.tetriswar'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.ygtetris"
+        applicationId "com.xiaoyan.tetriswar"
         minSdk 24
         targetSdk 33
         versionCode 1

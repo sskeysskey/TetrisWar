@@ -1,4 +1,4 @@
-package com.example.ygtetris
+package com.xiaoyan.tetriswar
 
 data class LevelCondition(
     val level: Int,
