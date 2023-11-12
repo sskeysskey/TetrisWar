@@ -9,6 +9,7 @@ import android.widget.ImageView
 import android.widget.TextView
 
 class MainActivity : AppCompatActivity() {
+    //测试专用11.12
     companion object {
         lateinit var tetrisView: TetrisView
     }
